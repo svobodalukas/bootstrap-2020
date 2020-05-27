@@ -1,13 +1,3 @@
 * {
   box-sizing: border-box;
 }
-
-body {
-  color: $text-color;
-  background-color: $bg-color;
-  font-size: $text-sm;
-
-  @media #{$screen-md} {
-    font-size: $text-md;
-  }
-}
