@@ -1,5 +1,7 @@
 # Školení Bootstrap
 
+[Prezentace ke stažení](https://docs.google.com/presentation/d/1aE_ufmjDFQxfZSlqgmihsMx43ANLQ2PG5gMAILx0164/edit?usp=sharing)
+
 ## Samostatný projekt
 Cílem je vytvořit landing page pro realitní společnost. Na stránce bude seznam tří vhodných bytů s možností rezervace prohlídky.
 
