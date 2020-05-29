@@ -5,3 +5,11 @@
   color: #98e41f;
   content: ">";
 }
+
+.entita p {
+  display: none;
+}
+
+.entita:hover p {
+  display: block;
+}
